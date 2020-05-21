@@ -1,1 +1,1 @@
-.netCore对接金蝶T+12.3以上的版本API接口封装
+.netCore瀵规帴鐢ㄥ弸T+12.3浠ヤ笂鐨勭増鏈珹PI鎺ュ彛灏佽
